@@ -12,3 +12,5 @@ This project delves into the US vehicle market, culminating in an application ho
 5. Model Average Price Histogram: A histogram showcasing the average price distribution across different vehicle models.
 
 Conclusion: The project concludes with insights drawn from the analysis.
+
+project link: https://sdt-project-sysm.onrender.com

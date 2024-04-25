@@ -58,7 +58,7 @@ df.duplicated().sum()
 st.caption('Set desirable price')
 price_range = st.slider(
      "Write price value",
-     value=(1, 375000))
+     value=(1, 37500))
 
 actual_range=list(range(price_range[0],price_range[1]+1))
 
